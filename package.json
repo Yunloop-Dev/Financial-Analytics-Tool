@@ -4,7 +4,7 @@
   "description": "1. File **logs/Other Name.xlsx** `<Edit new verion>` 2. More more trash code. `<Var rubilnic>`",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
