@@ -1,0 +1,19 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "1. File **logs/Other Name.xlsx** `<Edit new verion>` 2. More more trash code. `<Var rubilnic>`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aternus/csv-to-xlsx": "^1.0.19",
+    "fs": "^0.0.1-security",
+    "log4js": "^6.4.1",
+    "moment": "^2.29.1",
+    "node-xlsx": "^0.21.0"
+  }
+}
